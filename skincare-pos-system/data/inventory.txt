@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Vitamin C Serum",
+        "brand": "Garnier",
+        "quantity": 200,
+        "cost_price": 1000.0,
+        "country_origin": "France"
+    },
+    {
+        "name": "Skin Cleanser",
+        "brand": "Cetaphil",
+        "quantity": 100,
+        "cost_price": 280.0,
+        "country_origin": "Switzerland"
+    },
+    {
+        "name": "Sunscreen",
+        "brand": "Aqualogica",
+        "quantity": 200,
+        "cost_price": 700.0,
+        "country_origin": "India"
+    }
+]
